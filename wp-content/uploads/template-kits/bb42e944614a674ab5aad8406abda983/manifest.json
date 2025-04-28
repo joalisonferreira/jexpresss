@@ -1,0 +1,1121 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Bouncer - Template Kit for Bodyguard & Security Agency",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Case Study",
+            "screenshot": "screenshots\/case-study.jpg",
+            "source": "templates\/case-study.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/case-study\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bouncer V1 - 404 Page",
+            "screenshot": "screenshots\/bouncer-v1-404-page.jpg",
+            "source": "templates\/bouncer-v1-404-page.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/?elementor_library=bouncer-v1-404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bouncer V1 - Single Blog",
+            "screenshot": "screenshots\/bouncer-v1-single-blog.jpg",
+            "source": "templates\/bouncer-v1-single-blog.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/?elementor_library=bouncer-v1-single-blog",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bouncer V1 - Blog",
+            "screenshot": "screenshots\/bouncer-v1-blog.jpg",
+            "source": "templates\/bouncer-v1-blog.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/?elementor_library=bouncer-v1-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bouncer V1 - Footer",
+            "screenshot": "screenshots\/bouncer-v1-footer.jpg",
+            "source": "templates\/bouncer-v1-footer.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/?elementor_library=bouncer-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Bouncer V1 - Header",
+            "screenshot": "screenshots\/bouncer-v1-header.jpg",
+            "source": "templates\/bouncer-v1-header.json",
+            "preview_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/?elementor_library=bouncer-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.11",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.7",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "rear-view-of-bodyguard-in-suit-and-sunglasses.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/rear-view-of-bodyguard-in-suit-and-sunglasses-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/bouncer-v1-blog.json",
+                    "name": "Bouncer V1 - Blog"
+                }
+            ],
+            "filesize": 66964,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6HYCJE9"
+        },
+        {
+            "filename": "white-grunge-wall-textured-background-1.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/white-grunge-wall-textured-background-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/bouncer-v1-404-page.json",
+                    "name": "Bouncer V1 - 404 Page"
+                },
+                {
+                    "source": "templates\/bouncer-v1-footer.json",
+                    "name": "Bouncer V1 - Footer"
+                }
+            ],
+            "filesize": 183487,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/white-grunge-wall-textured-background_15007322.htm#query=grunge%20background&position=1&from_view=search&track=sph"
+        },
+        {
+            "filename": "bodyguard-in-sunglasses-opening-car-door-to-businessman.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/bodyguard-in-sunglasses-opening-car-door-to-businessman-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 111654,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WFWUL7V"
+        },
+        {
+            "filename": "handsome-security-guard-listening-message-with-security-earpiece-on-street-and-opening-car.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/handsome-security-guard-listening-message-with-security-earpiece-on-street-and-opening-car-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 105813,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LFXJD46"
+        },
+        {
+            "filename": "security-guard-job.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/security-guard-job-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/bouncer-v1-404-page.json",
+                    "name": "Bouncer V1 - 404 Page"
+                }
+            ],
+            "filesize": 76882,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MWBY496"
+        },
+        {
+            "filename": "bodyguard-opening-car-door-for-businessman-and-listening-security-earpiece.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/bodyguard-opening-car-door-for-businessman-and-listening-security-earpiece-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 148411,
+            "dimensions": [
+                1280,
+                1918
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6UZ8VBY"
+        },
+        {
+            "filename": "professional-safeguards-team-work-1.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/professional-safeguards-team-work-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 161836,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/professional-safeguards-team-work_6507444.htm#query=bodyguard&position=2&from_view=search&track=sph"
+        },
+        {
+            "filename": "handsome-bodyguard-with-security-earpiece-and-gun.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/handsome-bodyguard-with-security-earpiece-and-gun-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 182127,
+            "dimensions": [
+                1280,
+                1918
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TUDPJ82"
+        },
+        {
+            "filename": "guard-woman-with-equipment.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/guard-woman-with-equipment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 97317,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/guard-woman-with-equipment_6528031.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "World-Map-a.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/World-Map-a-800x386.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 148539,
+            "dimensions": [
+                1450,
+                700
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/continents-world-background_16351373.htm#query=world%20map&from_query=halftone%20world%20map&position=24&from_view=search&track=sph"
+        },
+        {
+            "filename": "Guard-3.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 50402,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cool-and-handsome-JA444EA"
+        },
+        {
+            "filename": "Guard-7.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 41502,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-businesswoman-H834A5E"
+        },
+        {
+            "filename": "Guard-2.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 59529,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-guard-in-uniform-with-crossed-arms-looking-XZCE8Y7"
+        },
+        {
+            "filename": "Guard-4.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 53728,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-serious-young-businessman-R4DEGH7"
+        },
+        {
+            "filename": "serious-bodyguard-standing-with-sunglasses-and-security-earpiece-on-helipad.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/serious-bodyguard-standing-with-sunglasses-and-security-earpiece-on-helipad-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 67820,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RNNP4LV"
+        },
+        {
+            "filename": "cropped-image-of-two-bodyguards-protecting-falling-businessman.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/cropped-image-of-two-bodyguards-protecting-falling-businessman-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 118177,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QDQX5RU"
+        },
+        {
+            "filename": "covert-operation-under-cover-of-darkness-e1668138785799.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/covert-operation-under-cover-of-darkness-e1668138785799-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 173985,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLYMLX4"
+        },
+        {
+            "filename": "handsome-guard-in-uniform-talking-on-walkie-talkie-at-workplace.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/handsome-guard-in-uniform-talking-on-walkie-talkie-at-workplace-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 103163,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NRDQUMY"
+        },
+        {
+            "filename": "bodyguard-reviewing-territory-while-businessman-going-out-from-car-e1668055044863.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/bodyguard-reviewing-territory-while-businessman-going-out-from-car-e1668055044863-800x623.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 101563,
+            "dimensions": [
+                1280,
+                996
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RMPWSFP"
+        },
+        {
+            "filename": "Guard-5.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 46998,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-serious-masculine-female-in-formalwear-touch-UTCLW8B"
+        },
+        {
+            "filename": "Guard-1.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 46853,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-security-guard-with-security-earpiece-loo-26UX9VR"
+        },
+        {
+            "filename": "female-cop-checking-male-passerby-id-document.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/female-cop-checking-male-passerby-id-document-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 104799,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QE4YRRN"
+        },
+        {
+            "filename": "two-bodyguards-waiting-for-businessman-standing-at-reception-counter.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/two-bodyguards-waiting-for-businessman-standing-at-reception-counter-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 95023,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSKNDMD"
+        },
+        {
+            "filename": "security-staff.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/security-staff-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 85258,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SQ638QD"
+        },
+        {
+            "filename": "security-guards-with-police-dogs-standing-in-airfield-e1668012966569.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/security-guards-with-police-dogs-standing-in-airfield-e1668012966569-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 137408,
+            "dimensions": [
+                1280,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QJELFK5"
+        },
+        {
+            "filename": "portrait-of-a-bodyguard-in-a-stylish-suit-1-2.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/portrait-of-a-bodyguard-in-a-stylish-suit-1-2-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 135768,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8VE5578"
+        },
+        {
+            "filename": "businessman-and-two-bodyguards-walking-to-auto.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/businessman-and-two-bodyguards-walking-to-auto-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 145466,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AA46GRN"
+        },
+        {
+            "filename": "Guard-8.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 63561,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bodyguard-HTQER7C"
+        },
+        {
+            "filename": "Guard-6.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Guard-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61003,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-macho-mature-businessman-thinking-and--9XJ9WV7"
+        },
+        {
+            "filename": "rear-view-of-handsome-guard-in-uniform-with-earphone.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/rear-view-of-handsome-guard-in-uniform-with-earphone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 79524,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JGUKJUV"
+        },
+        {
+            "filename": "bodyguard-standing-at-businessman-car-and-reviewing-territory.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/bodyguard-standing-at-businessman-car-and-reviewing-territory-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 233710,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WBHNKPU"
+        },
+        {
+            "filename": "handsome-security-guard-standing-in-sunglasses-with-security-earpiece-e1667829074545.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/handsome-security-guard-standing-in-sunglasses-with-security-earpiece-e1667829074545-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 91769,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRA8YL5"
+        },
+        {
+            "filename": "portrait-of-a-bodyguard-in-a-stylish-suit-.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/portrait-of-a-bodyguard-in-a-stylish-suit--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bouncer-v1-single-blog.json",
+                    "name": "Bouncer V1 - Single Blog"
+                },
+                {
+                    "source": "templates\/bouncer-v1-blog.json",
+                    "name": "Bouncer V1 - Blog"
+                }
+            ],
+            "filesize": 142131,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3K9XAK2"
+        },
+        {
+            "filename": "composite-image-of-rear-view-of-security-officer-talking-on-walkie-talkie.jpg",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/composite-image-of-rear-view-of-security-officer-talking-on-walkie-talkie-800x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bouncer-v1-footer.json",
+                    "name": "Bouncer V1 - Footer"
+                }
+            ],
+            "filesize": 170653,
+            "dimensions": [
+                2000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5BH6M5M"
+        },
+        {
+            "filename": "Logo_Bouncer_1.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Logo_Bouncer_1.png",
+            "templates": [
+                {
+                    "source": "templates\/bouncer-v1-footer.json",
+                    "name": "Bouncer V1 - Footer"
+                }
+            ],
+            "filesize": 13573,
+            "dimensions": [
+                357,
+                92
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/air-lines-logo-template_839821.htm#page=2&query=bodyguard%20security%20guard%20logo&position=24&from_view=search&track=ais"
+        },
+        {
+            "filename": "Logo_Bouncer_2.png",
+            "thumbnail_url": "https:\/\/kitnew.moxcreative.com\/bouncer\/wp-content\/uploads\/sites\/10\/2022\/11\/Logo_Bouncer_2.png",
+            "templates": [
+                {
+                    "source": "templates\/bouncer-v1-header.json",
+                    "name": "Bouncer V1 - Header"
+                }
+            ],
+            "filesize": 14241,
+            "dimensions": [
+                357,
+                92
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/air-lines-logo-template_839821.htm#page=2&query=bodyguard%20security%20guard%20logo&position=24&from_view=search&track=ais"
+        }
+    ]
+}
